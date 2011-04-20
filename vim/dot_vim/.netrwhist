@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/nfs'
+let g:netrw_dirhist_2='/mnt/nfs/mpi_naca_tri'
+let g:netrw_dirhist_3='/mnt/nfs/mpi_naca_tri/mpi_naca_tri'
